@@ -38,3 +38,13 @@ marked_highlight:
     #    class: {pre: ['line-numbers']} # add class for <per> or <code>
     #url: https://cdn.jsdelivr.net/npm/prismjs@1/ # only for cdn
 ```
+
+## Others
+
+If you don't use NexT or Cake theme, please set `injector2.stylus.enable` to `true`.
+
+```yml
+injector2:
+  stylus:
+    enable: true
+```
