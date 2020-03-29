@@ -1,6 +1,6 @@
 {
   "name": "hexo-filter-marked-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A highlight extend for marked renderer.",
   "main": "index.js",
   "scripts": {
