@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/jiangtj/hexo-filter-marked-highlight#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-hexo": "^4.1.0"
+    "eslint": "6.8.0",
+    "eslint-config-hexo": "4.1.0"
   },
   "dependencies": {
     "hexo-extend-injector2": "^0.1.6",
