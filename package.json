@@ -1,0 +1,39 @@
+{
+  "name": "hexo-filter-marked-highlight",
+  "version": "1.0.0",
+  "description": "A highlight extend for marked renderer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangtj/hexo-filter-marked-highlight.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "hexo-renderer-marked"
+  ],
+  "author": "Mr.J",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jiangtj/hexo-filter-marked-highlight/issues"
+  },
+  "homepage": "https://github.com/jiangtj/hexo-filter-marked-highlight#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-hexo": "^4.1.0"
+  },
+  "dependencies": {
+    "hexo-extend-injector2": "^0.1.6",
+    "hexo-util": "^1.9.0",
+    "highlight.js": "^9.18.1",
+    "prismjs": "^1.19.0",
+    "strip-indent": "^3.0.0"
+  }
+}
