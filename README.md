@@ -22,7 +22,8 @@ marked_highlight:
     ## see ./node_modules/highlight.js/lib/languages/*, default including all languages.
     #register: ['html','js','css','java','sql']
     ## see ./node_modules/highlight.js/styles/*, default github.
-    #style: github
+    #style: default
+    #style_dark: dark # if setted, will apply it when prefers-color-scheme is dark
     #
     ### prismjs ###
     #load: bundler # node or cdn (node don't support plugin)
