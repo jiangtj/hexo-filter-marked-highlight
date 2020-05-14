@@ -29,6 +29,7 @@ marked_highlight:
     #load: bundler # node or cdn (node don't support plugin)
     ## see ./node_modules/prismjs/themes/*, dark coy etc.
     #theme: default
+    #theme_dark: dark # if setted, will apply it when prefers-color-scheme is dark (not support in cdn load)
     ## see ./node_modules/prismjs/components/*. you also can not to set it, if use autoloader plugin and cdn load.
     #languages: ['markup', 'css', 'clike', 'javascript']
     ## see ./node_modules/prismjs/plugins/*.
