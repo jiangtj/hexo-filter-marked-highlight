@@ -17,6 +17,7 @@ highlight:
   enable: false
 marked_highlight:
   engine: highlight # prism
+  wrap_raw: false # <pre><code> to {% raw %}<pre>\n<code></code>\n</pre>{% endraw %}
   options:
     ### highlight.js ###
     ## see ./node_modules/highlight.js/lib/languages/*, default including all languages.
