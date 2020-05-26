@@ -25,6 +25,7 @@ marked_highlight:
     ## see ./node_modules/highlight.js/styles/*, default github.
     #style: default
     #style_dark: dark # if setted, will apply it when prefers-color-scheme is dark
+    #auto_detect: false # auto detect language
     #
     ### prismjs ###
     #load: bundler # node or cdn (node don't support plugin)
