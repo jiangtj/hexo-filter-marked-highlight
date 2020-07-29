@@ -1,5 +1,7 @@
 # hexo-filter-marked-highlight
 
+**Not in maintenance, Hexo processes the code internally, which is difficult to process externally. .**
+
 A highlight extend for marked renderer.
 
 ![npm](https://img.shields.io/npm/v/hexo-filter-marked-highlight.svg)
